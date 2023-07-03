@@ -1,0 +1,148 @@
+=============== 
+#Unity generated
+===============
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/ExportedObj/
+/Built/
+
+Unity-iPhone/
+LaunchScreen-*.*
+MapFileParser.sh
+MapFileParser
+Unity-iPhone\ Tests/
+
+Client/[Ll]ibrary/
+Client/[Tt]emp/
+*.userproperties
+
+=====================================
+#Visual Studio / MonoDevelop generated
+=====================================
+*.xcodeproj/
+*.svd
+*.userprefs
+/*.csproj
+*.pidb
+*.suo
+/*.sln
+*.user
+*.unityproj
+*.booproj
+*.tmp
+obj/
+bin/
+
+=============== 
+JetBrains generated
+===============
+**/JetBrains/
+.idea/
+JetBrains.meta
+
+============
+#Gradle
+============
+.gradle/
+
+============
+#OS generated
+============
+Thumbs.ds
+Thumbs.ds.meta
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+
+============
+#FMOD
+============
+.cache/
+fmod*.log
+FMODStudioSettings.asset
+FMODStudioSettings.asset.meta
+
+============
+#Applications
+============
+*.apk
+*.app/
+.vs/
+.vscode/
+
+# Unity3D Generated File On Crash Reports
+sysinfo.txt
+
+#Python files ignore
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*,cover
+
+# Translations
+*.mo
+*.pot
+
+# Django stuff:
+*.log
+
+# Sphinx documentation
+docs/_build/
+
+# PyBuilder
+target/
+Client/Assets/UnityVS/Editor/SyntaxTree.VisualStudio.Unity.Bridge.dll.meta
+Client/Assets/UnityVS/Editor/SyntaxTree.VisualStudio.Unity.Messaging.dll.meta
+Client/Assets/UnityVS/Editor.meta
+Client/Assets/UnityVS/Editor/UnityVS.VersionSpecific.dll.meta
+Client/obj
+out
+*.apk
+node_modules
+Client/Build
+
+============
+#AssetGraph Cache
+============
+/AssetBundles/
+/AssetODB/
+/AssetODL/
+/BundleCode/
+**/UnityEngine.AssetGraph/Cache/
+**/UnityEngine.AssetGraph/Cache.meta
+**/UnityEngine.AssetGraph/AssetBundles/Cache/
+**/UnityEngine.AssetGraph/AssetBundles/Cache.meta
+Assets/StreamingAssets/ab
+Assets/StreamingAssets/ab.meta
+Assets/StreamingAssets/odl
+Assets/StreamingAssets/odl.meta
+Assets/StreamingAssets/odb
+Assets/StreamingAssets/odb.meta
+
+============
+#Unity Purchasing
+============
+!Assets/Plugins/UnityPurchasing/
+!Assets/Plugins/UnityPurchasing/*
+ServerData

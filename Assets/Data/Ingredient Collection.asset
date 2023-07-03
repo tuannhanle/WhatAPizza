@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: aa11779dad464359a62d7a721f3afdcc, type: 3}
+  m_Name: Ingredient Collection
+  m_EditorClassIdentifier: 
+  _ingredientMap:
+    list:
+    - Key: cheese
+      Value:
+        ingredient: {fileID: 5177755836598215131, guid: b7d70d80ddd390f41a1bdde5957f74f0,
+          type: 3}
+        sprite: {fileID: 21300000, guid: 97362c8821fe2f7449927570ad6d4d6a, type: 3}
+    - Key: tomato
+      Value:
+        ingredient: {fileID: -7379019190912180365, guid: b29c3addc4240254785fef8671d1291b,
+          type: 3}
+        sprite: {fileID: 21300046, guid: 401013711c3fe495b95e41fc7cf3eaa0, type: 3}
+    - Key: pineapple
+      Value:
+        ingredient: {fileID: 8835569581990412403, guid: 80c29c7e0bd64654f8f59dda85e24897,
+          type: 3}
+        sprite: {fileID: 21300100, guid: 401013711c3fe495b95e41fc7cf3eaa0, type: 3}
+    - Key: mushroom
+      Value:
+        ingredient: {fileID: 4091884422128810596, guid: 630adda25e718324a80512d3e4d69e13,
+          type: 3}
+        sprite: {fileID: 21300000, guid: 5343b7115bd89c64982db3f2216a0c0f, type: 3}
+    keyCollision: 0
